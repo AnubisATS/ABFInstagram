@@ -2,6 +2,12 @@ from instabot import Bot
 from colorama import Fore, Style
 import os, sys, time
 
+# Este script esta publicado bajo licencia gratuita
+# usted puede modificar y mejorar el codigo a voluntad
+# unicamente no puede borrar el nombre del creador "CleanerSC"
+# puede agregar su nombre en el banner pero no eliminar el autor
+# disfruta mi script :D
+
 def banner():
     os.system("clear")
     banner = f"""^^
@@ -10,7 +16,7 @@ def banner():
 |                                                     |
 |           &&Attack Brute force instagram^^              |
 |              &&[   by CleanerSC    ]^^                  |
-|                                                     |
+|              &&[   Version: 1.0    ]^^                  |
 |                    .oooO                            |
 |                    (   )   Oooo.                    |
 +---------------------\ (----(   )--------------------+
