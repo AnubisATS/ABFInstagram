@@ -1,7 +1,5 @@
 # ABFInstagram
-This is a script writed in python, it can make attack brute force any account instagram
-
-#library
+This is a script writed in python, it can make attack brute force any account instagra
 
 #How to install
 * pkg install git && pkg install python
